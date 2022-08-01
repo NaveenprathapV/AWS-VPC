@@ -1,0 +1,8 @@
+vpc_Name = "naveen-vpc"
+public_subnet = "Naveen-publicsub"
+private_subnet = "Naveen-privatesub"
+IGW_Name = "Naveen-IGW"
+eip_Name = "Naveen-eip"
+nat_Name = "Naveen-nat"
+Public_Route_Table = "Naveen-pubRT"
+Private_Route_Table = "Naveen-pvtRT"
